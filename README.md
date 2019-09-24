@@ -7,7 +7,7 @@ While keeping track of the memory, the code implements chaning to resolve hash-t
 
 
 ## input format:
-Thisprogramtakesafilenameasargumentfromthecommandline.Thefilecanhavefromafewlinestomillionsoflines.Eachlinecontainsanaddressinhexadecimalformat,i.e.0x7f1a91026b00,generatedbypintool(http://pintool.org).Eachaddressisrepresentedasa64-bithexadecimalnumber
+Thisprogramtakesafilenameasargumentfromthecommandline.Thefilecanhavefromafewlinestomillionsoflines.Eachlinecontainsanaddressinhexadecimalformat,i.e.0x7f1a91026b00,generatedbypintool(http://pintool.org). Each address is represented as a 64-bit hexadecimal number.
 
 
 ## Running the tests
